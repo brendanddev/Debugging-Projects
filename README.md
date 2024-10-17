@@ -5,6 +5,7 @@ Welcome to my Debugging Projects repository! This repo contains a collection of 
 ## Table of Contents
 
 - [Overview](#overview)
+- [Project List](#projectlist)
 
 ## Overview
 
